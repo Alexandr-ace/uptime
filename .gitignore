@@ -29,5 +29,6 @@ __pycache__/
 *.db
 
 # --- Мои личные текстовые файлы ---
-test.txt
-old.py
+test_one.txt
+test_two.txt
+
